@@ -32,7 +32,7 @@ I'm a recent Engineering graduate passionate about building reliable, high-quali
  
 ### Event Website (Meqnzo)
 A responsive event management website built using HTML, CSS, and JavaScript.  
-GitHub: [meqnzo](https://github.com/VivekGoveas/meqnzo.git)
+GitHub: [meqnzo]([https://github.com/VivekGoveas/meqnzo.git](https://meqnzo2k24.netlify.app/))
  
 ### Automation Testing Project – Cognizant Training
 Developed a robust automation suite utilizing Page Object Model, Cucumber, TestNG, and Selenium for web application testing.  
